@@ -45,18 +45,6 @@ The purpose of this repository is to:
 
 ---
 
-## 📊 Progress
-
-| Difficulty | Solved |
-|---|---:|
-| 🟢 Easy | 1 |
-| 🟡 Medium | 0 |
-| 🔴 Hard | 0 |
-| **Total** | **1** |
-
-> This section will be updated as more problems are solved.
-
----
 
 ## 🗂️ Repository Structure
 
