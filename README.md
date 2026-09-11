@@ -26,25 +26,6 @@ The purpose of this repository is to:
 - Track my problem-solving progress
 - Maintain a structured record of solved problems
 
----
-
-## 🧠 Topics Covered
-
-| Topic | Status |
-|---|---|
-| Arrays | 🔄 In Progress |
-| Strings | 🔄 In Progress |
-| Hash Tables | 🔄 In Progress |
-| Two Pointers | 🔄 In Progress |
-| Binary Search | 🔄 In Progress |
-| Linked Lists | 🔄 In Progress |
-| Stack & Queue | 🔄 In Progress |
-| Trees | 🔄 In Progress |
-| Graphs | 🔄 In Progress |
-| Dynamic Programming | 🔄 In Progress |
-
----
-
 
 ## 🗂️ Repository Structure
 
